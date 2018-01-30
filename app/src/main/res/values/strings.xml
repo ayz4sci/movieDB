@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie_image">Movie image</string>
+    <string name="retry">Retry</string>
+    <string name="internet_connection_error">Internet Connection Error</string>
+    <string name="server_error">Server error</string>
+    <string-array name="date_filters">
+        <item>Select Year</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+    </string-array>
+</resources>
